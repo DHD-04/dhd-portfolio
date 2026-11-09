@@ -206,9 +206,6 @@ export default function App() {
                   ? "Développeuse Full Stack"
                   : "Full Stack Developer"}
               </small>
-              <span className="signature">
-                DHD<span>✦</span>
-              </span>
             </div>
             <span className="vertical">
               {lang === "fr" ? "DU CODE QUI A DU SENS." : "CODE WITH PURPOSE."}

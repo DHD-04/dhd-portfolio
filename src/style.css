@@ -253,20 +253,6 @@ h1 > span {
   line-height: 1.5;
   color: var(--muted);
 }
-.signature {
-  position: absolute;
-  right: 0;
-  top: 23px;
-  font-family: Georgia, serif;
-  font-size: 28px;
-  font-style: italic;
-  letter-spacing: -3px;
-}
-.signature span {
-  color: var(--blue);
-  margin-left: 7px;
-  font-size: 19px;
-}
 .vertical {
   position: absolute;
   right: -32px;
